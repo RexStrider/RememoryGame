@@ -3,7 +3,7 @@ import styles from './Image.module.css'; // Import cssmodules stylesheet as styl
 
 const Image = props => ( 
     <section className={styles.img} onClick={props.clickHandler}>
-        <img src={props.src} alt="a dog"></img>
+        <img src={props.src} alt="a dog" />
     </section>
 );
      
