@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Header from "./Header"
+import NavBar from "./NavBar"
 import Image from "./Image"
 
 class Main extends Component {
@@ -35,6 +37,8 @@ class Main extends Component {
         console.log({...this.state});
         return ( 
             <section>
+                <NavBar score={this.state.score} high_score={this.state.high_score} />
+                <Header />
                 <Image clickHandler={this.handleClick} />
             </section>
          );

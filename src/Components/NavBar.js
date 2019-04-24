@@ -6,8 +6,8 @@ class NavBar extends Component {
             <nav>
                 <ul>
                     <li>Rememory</li>
-                    <li>About</li>
-                    <li>Contact</li>
+                    <li>Score: {this.props.score}</li>
+                    <li>High Score: {this.props.high_score}</li>
                 </ul>
             </nav>
          );
