@@ -41,7 +41,7 @@ class Main extends Component {
                 <Header />
                 <Image clickHandler={this.handleClick} />
             </section>
-         );
+        );
     }
 }
  
