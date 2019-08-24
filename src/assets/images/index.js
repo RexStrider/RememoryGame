@@ -1,14 +1,27 @@
+import dogA from './dog-A.jpg';
+import dogB from './dog-B.jpg';
+import dogC from './dog-C.jpg';
+import dogD from './dog-D.jpg';
+import dogE from './dog-E.jpg';
+import dogF from './dog-F.jpg';
+import dogG from './dog-G.jpg';
+import dogH from './dog-H.jpg';
+import dogI from './dog-I.jpg';
+import dogJ from './dog-J.jpg';
+import dogK from './dog-K.jpg';
+import dogL from './dog-L.jpg';
+
 export default [
-    {id: `A`, url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWAm4FAXnpTB0VKnZ_WK9oQyHFWwcKniHX5PsHmnIdCPHWsHJJg'},
-    {id: `B`, url: 'https://www.what-dog.net/Images/faces2/scroll008.jpg'},
-    {id: `C`, url: 'https://blog.pawstruck.com/wp-content/uploads/2016/01/puppy-dog-eyes.jpg'},
-    {id: `D`, url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFYDhtlcow3WRj7PVIQDVJWab0_297Hja69ML63OpyxHzle7SdQ'},
-    {id: `E`, url: 'https://www.statnews.com/wp-content/uploads/2019/01/GettyImages-453338433-645x645.jpg'},
-    {id: `F`, url: 'https://img.buzzfeed.com/buzzfeed-static/static/2018-09/11/11/asset/buzzfeed-prod-web-03/sub-buzz-27923-1536678906-2.jpg?downsize=700:*&output-format=auto&output-quality=auto'},
-    {id: `G`, url: 'https://i.kym-cdn.com/entries/icons/facebook/000/010/346/gdggfjjgfjgfgg.jpg'},
-    {id: `H`, url: 'https://bowwowinsurance.com.au/wp-content/uploads/2018/10/airedale-terrier-700x700.jpg'},
-    {id: `I`, url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSRslPrB4H7zAGtLYyQlb8YzfVMdhqaxPOTYwN6aTPlnnVggH'},
-    {id: `J`, url: 'https://usercontent2.hubstatic.com/5111143_f520.jpg'},
-    {id: `K`, url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSveaCqxeujAaa7gDWiE-KeeI7fRJAOccyh6GZZxayetOw6DM44Q'},
-    {id: `L`, url: 'https://g.petango.com/photos/1686/86723e26-36e5-4566-aa47-a92e18dcd2cf.jpg'}
+    {id: `A`, url: dogA},
+    {id: `B`, url: dogB},
+    {id: `C`, url: dogC},
+    {id: `D`, url: dogD},
+    {id: `E`, url: dogE},
+    {id: `F`, url: dogF},
+    {id: `G`, url: dogG},
+    {id: `H`, url: dogH},
+    {id: `I`, url: dogI},
+    {id: `J`, url: dogJ},
+    {id: `K`, url: dogK},
+    {id: `L`, url: dogL}
 ]
