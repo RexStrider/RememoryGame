@@ -14,7 +14,7 @@ You may play the game by clicking on the link below.
 
 Good luck!
 
-#### [Rememory](https://rememory-game.herokuapp.com/)
+### [Rememory](https://rememory-game.herokuapp.com/)
 
 ## Running the Application
 
