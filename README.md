@@ -12,9 +12,9 @@ The maximum score you can get is 12, as there are only 12 pictures.
 
 You may play the game by clicking on the link below.
 
-#### [Rememory](https://rememory-game.herokuapp.com/)
-
 Good luck!
+
+#### [Rememory](https://rememory-game.herokuapp.com/)
 
 ## Running the Application
 
