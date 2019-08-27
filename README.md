@@ -10,6 +10,10 @@ If you click on a picture you have already clicked on, your score resets to 0.
 
 The maximum score you can get is 12, as there are only 12 pictures.
 
+You may play the game by clicking on the link below.
+
+#### [Rememory](https://rememory-game.herokuapp.com/)
+
 Good luck!
 
 ## Running the Application
